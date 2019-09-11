@@ -5,12 +5,14 @@ baseurl: "JuanPLopez.github.io" # the subpath of your site, e.g. /blog
 url: "JuanPLopez" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
+username: Juan Pablo López Alduncin
+user_description: I’m an Argentinean double degree candidate at ESCP Europe. I’ve proven to be dynamic and proactive, with excellent English language skills and adaptation to change acquired from having lived in emerging markets including Africa, South America, the Middle East and Asia. 
+
+I’m currently looking for a summer internship that will enable me to add value and gain acknowledgment based on performance and results. 
+user_title: ESCP Europe MiM Candidate
 email: jlopezalduncin@gmail.com
 # twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+github_username:  JuanPlopez
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
